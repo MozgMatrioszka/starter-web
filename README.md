@@ -10,3 +10,7 @@ Simple purpose for exampleeeeee
 ## Deployment
 
 Example..... of the new content to read
+
+### Copyright
+
+2018 GIT Aleksandra
