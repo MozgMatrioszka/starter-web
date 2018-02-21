@@ -17,3 +17,4 @@ Example..... of the new content to read
 ### Copyright
 
 2018 GIT Aleksandra
+All rights reserved
