@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
-Adding some random text.
+Adding some random text. Adding more cool random text.
 
 ## Purpose
 
